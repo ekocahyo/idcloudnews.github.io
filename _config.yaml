@@ -179,16 +179,8 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: https://olivier3lanc.github.io/Scroll-Btween/
+        -   url: https://www.idcloudnews.com/first-post.html
             title: Scroll Btween
-            order: 500
-            category: How to
-        -   url: https://olivier3lanc.github.io/Scroll-Frames/
-            title: Scroll Frames
-            order: 500
-            category: How to
-        -   url: https://olivier3lanc.github.io/seemap/
-            title: SEEMAP
             order: 500
             category: How to
         # Example remote URL
