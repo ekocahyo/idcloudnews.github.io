@@ -1,1 +1,1 @@
-# idcloudnews.github.io
+# idcloudnews.com
