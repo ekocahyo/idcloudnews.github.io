@@ -182,28 +182,28 @@ sidebar:
         -   url: https://olivier3lanc.github.io/Scroll-Btween/
             title: Scroll Btween
             order: 500
-            category: Examples using LibDoc
+            category: How to
         -   url: https://olivier3lanc.github.io/Scroll-Frames/
             title: Scroll Frames
             order: 500
-            category: Examples using LibDoc
+            category: How to
         -   url: https://olivier3lanc.github.io/seemap/
             title: SEEMAP
             order: 500
-            category: Examples using LibDoc
+            category: How to
         # Example remote URL
         -   url: https://github.com/olivier3lanc/Jekyll-LibDoc
             title: <span class="i-github u-mr-xxs"></span> Jekyll LibDoc
             order: 510
-            category: External resources
+            category: News
         -   url: https://pages.github.com
             title: Github Pages
             order: 510
-            category: External resources
+            category: News
         -   url: https://jekyllrb.com
             title: Jekyll
             order: 510
-            category: External resources
+            category: News
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
